@@ -7,6 +7,7 @@ public class secondchildclass {
 		System.out.println("this is child of second class");
 		System.out.println("second message this is child of second class");
 
+		
 	}
 
 }
